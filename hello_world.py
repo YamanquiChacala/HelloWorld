@@ -1,3 +1,5 @@
 """Saluda al mundo"""
 
-print("¡Hola Mundo!")
+def saluda(quien:str):
+    """Debe responder ¡Hola <quien>!"""
+    return quien
