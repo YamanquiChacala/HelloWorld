@@ -1,4 +1,4 @@
-"""Tests for hello world"""
+"""Tests de hello world"""
 
 import hello_world
 
